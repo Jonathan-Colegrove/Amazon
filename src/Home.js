@@ -18,9 +18,7 @@ function Home() {
             title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
             price={11.96}
             rating={5}
-            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
-            // image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_B01,204,203,200_.jpg"
-            // check pic
+            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_B01,204,203,200_.jpg"
           />
           <Product
             id="49538094"
@@ -28,7 +26,6 @@ function Home() {
             price={239.0}
             rating={4}
             image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
-            // check pic
           />
         </div>
 
@@ -38,8 +35,8 @@ function Home() {
             title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor"
             price={199.99}
             rating={3}
-            image="https://images-na.ssl-images-ama zon.com/images/I/715wqqe7XAL._AC_SX466_.jpg"
-            // check pic
+            image="https://images-na.ssl-images-amazon.com/images/I/715wqqe7XAL._AC_SX466_.jpg"
+            //  pic not correct
           />
 
           <Product
@@ -48,7 +45,7 @@ function Home() {
             price={98.99}
             rating={5}
             image="https://media.very.co.uk/1/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf7$300x400_retinamobitex2$.jpg"
-            // check pic
+            // pic not correct
           />
 
           <Product
@@ -57,7 +54,6 @@ function Home() {
             price={598.99}
             rating={4}
             image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
-            // check pic
           />
         </div>
 
@@ -68,7 +64,6 @@ function Home() {
             price={1094.98}
             rating={4}
             image="https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg"
-            // check pic
           />
         </div>
       </div>
