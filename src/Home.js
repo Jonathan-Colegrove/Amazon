@@ -35,8 +35,7 @@ function Home() {
             title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor"
             price={199.99}
             rating={3}
-            image="https://images-na.ssl-images-amazon.com/images/I/715wqqe7XAL._AC_SX466_.jpg"
-            //  pic not correct
+            image="https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg"
           />
 
           <Product
@@ -44,8 +43,7 @@ function Home() {
             title="Amazon Echo (3rd generation) | Smart speaker with Alexa, Charcoal Fabric"
             price={98.99}
             rating={5}
-            image="https://media.very.co.uk/1/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf7$300x400_retinamobitex2$.jpg"
-            // pic not correct
+            image="https://media.very.co.uk/i/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf?$300x400_retinamobilex2$"
           />
 
           <Product
