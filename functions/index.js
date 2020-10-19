@@ -32,4 +32,4 @@ app.post('/payments/create', async (request, response) => {
 })
 
 // - Listen command
-export.api = functions.https.onRequest
+exports.api = functions.https.onRequest(app);
